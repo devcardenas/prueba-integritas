@@ -19,3 +19,6 @@ Prueba técnica para Integritas
 ```sh
 php artisan serve
 ```
+### Notas
+- Enlace a Página de hola mundo: http://127.0.0.1:8000/hola-mundo
+- Todos los demas puntos están cubiertos en la página principal http://127.0.0.1:8000
