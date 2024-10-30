@@ -7,7 +7,7 @@ Prueba técnica para Integritas relizado con la siguientes tecnologías:
 -Vuetify 3 mediante CDN
 -JavaScript
 -Base de datos MySQL
-
+```
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/)
