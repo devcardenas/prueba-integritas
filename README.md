@@ -1,6 +1,7 @@
 # prueba_tecnica
 
 Prueba técnica para Integritas relizado con la siguientes tecnologías:
+```sh
 -Laravel 11.9
 -Vue.js 3 mediante CDN
 -Vuetify 3 mediante CDN
