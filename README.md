@@ -1,6 +1,11 @@
 # prueba_tecnica
 
-Prueba técnica para Integritas
+Prueba técnica para Integritas relizado con la siguientes tecnologías:
+-Laravel 11.9
+-Vue.js 3 mediante CDN
+-Vuetify 3 mediante CDN
+-JavaScript
+-Base de datos MySQL
 
 ## Recommended IDE Setup
 
