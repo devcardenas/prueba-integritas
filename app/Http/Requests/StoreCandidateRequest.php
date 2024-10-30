@@ -25,6 +25,7 @@ class StoreCandidateRequest extends FormRequest
             'name' => 'required|string|max:255',
             'phone' => 'required|string|max:15',
             'profession' => 'required|string|max:255',
+            'cv' => 'nullable|mimes:pdf|max:2048',
         ];
     }
 }

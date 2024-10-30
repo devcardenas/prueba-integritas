@@ -7,3 +7,4 @@ Route::post('/candidates', [CandidateController::class, 'store']);
 Route::get('/candidates', [CandidateController::class, 'index']);
 Route::put('/candidates/{id}', [CandidateController::class, 'update']);
 Route::delete('/candidates/{id}', [CandidateController::class, 'destroy']);
+Route::get('/candidates/{id}/download-cv', [CandidateController::class, 'downloadCV']);
